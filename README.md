@@ -3,14 +3,20 @@ This project is to automate a sample test scenario using an automation framework
 
 ## Based on
 C#
+
 .Net 8.0
+
 SpecFlow 3.9
 
 ## Supports
 Native Chrome browser
+
 Native Edge browser
+
 Supports Page Object Model
+
 Contains some test scenarios in SpecFlow
+
 Supports SpecFlow default Report
 
 ## Running sample test
