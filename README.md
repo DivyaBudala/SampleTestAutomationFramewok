@@ -17,8 +17,13 @@ Supports SpecFlow default Report
 Follow the below steps
 
 Clone the project - https://github.com/DivyaBudala/SampleTestAutomationFramework
+
 Open the project in Visual Studio 2022
+
 Build the solution
+
 Run the available test case from Test Explorer
+
 If required, please register to Specflow runner
+
 Html Test report will be generated in Test Results folder
