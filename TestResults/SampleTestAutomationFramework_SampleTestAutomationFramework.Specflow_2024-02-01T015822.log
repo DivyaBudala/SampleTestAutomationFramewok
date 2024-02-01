@@ -1,0 +1,148 @@
+﻿2024-02-01T01:58:22.6200750+00:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2024-02-01T01:58:22.6200750+00:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.9.7 in Framework clr40 in x64 mode execution started
+2024-02-01T01:58:22.6200750+00:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\597782\.nuget\packages\specrun.runner\3.9.7\tools\net461\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2024-02-01T01:58:22.6200750+00:00;VSTestExecutionThread;Info;Current UserName: '597782', MachineName: 'LTGB009328'
+2024-02-01T01:58:22.7408901+00:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Defra\Test Automation\TestFramework\Sample\SampleTestAutomationFramework\bin\Debug\net461\SampleTestAutomationFramework.dll
+2024-02-01T01:58:22.7408901+00:00;VSTestExecutionThread;Info;Output folder configured to "C:\Defra\Test Automation\TestFramework\Sample\SampleTestAutomationFramework\TestResults" (default)
+2024-02-01T01:58:22.7408901+00:00;VSTestExecutionThread;Info;Profile: SampleTestAutomationFramework.Specflow
+2024-02-01T01:58:22.8397249+00:00;VSTestExecutionThread;Info;Log file path: C:\Defra\Test Automation\TestFramework\Sample\SampleTestAutomationFramework\TestResults\SampleTestAutomationFramework_SampleTestAutomationFramework.Specflow_2024-02-01T015822.log
+2024-02-01T01:58:22.8486483+00:00;Thread#13;Info;Checking activation
+2024-02-01T01:58:22.9976936+00:00;Thread#13;Info;Activated.
+2024-02-01T01:58:22.9987885+00:00;Thread#13;Info;Activation check completed
+2024-02-01T01:58:22.9987885+00:00;Thread#13;Info;Starting test run
+2024-02-01T01:58:23.1039224+00:00;Thread#13;Info;Discovering target: Edge
+2024-02-01T01:58:23.1039224+00:00;Thread#13;Info;Discovering tests from assembly: C:\Defra\Test Automation\TestFramework\Sample\SampleTestAutomationFramework\bin\Debug\net461\SampleTestAutomationFramework.dll
+2024-02-01T01:58:23.7061734+00:00;Thread#13;Info;Discovered tests from assembly: C:\Defra\Test Automation\TestFramework\Sample\SampleTestAutomationFramework\bin\Debug\net461\SampleTestAutomationFramework.dll
+2024-02-01T01:58:23.7061734+00:00;Thread#13;Info;Discovering target: Chrome
+2024-02-01T01:58:23.7061734+00:00;Thread#13;Info;Discovering tests from assembly: C:\Defra\Test Automation\TestFramework\Sample\SampleTestAutomationFramework\bin\Debug\net461\SampleTestAutomationFramework.dll
+2024-02-01T01:58:23.8026401+00:00;Thread#13;Info;Discovered tests from assembly: C:\Defra\Test Automation\TestFramework\Sample\SampleTestAutomationFramework\bin\Debug\net461\SampleTestAutomationFramework.dll
+2024-02-01T01:58:23.8031356+00:00;Thread#13;Info;Discovering target: Firefox
+2024-02-01T01:58:23.8031356+00:00;Thread#13;Info;Discovering tests from assembly: C:\Defra\Test Automation\TestFramework\Sample\SampleTestAutomationFramework\bin\Debug\net461\SampleTestAutomationFramework.dll
+2024-02-01T01:58:23.8935852+00:00;Thread#13;Info;Discovered tests from assembly: C:\Defra\Test Automation\TestFramework\Sample\SampleTestAutomationFramework\bin\Debug\net461\SampleTestAutomationFramework.dll
+2024-02-01T01:58:23.8955858+00:00:Test Suite Dump
+2024-02-01T01:58:23.8965897+00:00:#0: SampleTestAutomationFramework/SampleTestAutomationFramework.Specflow - 
+2024-02-01T01:58:23.8965897+00:00:#1: Edge - 
+2024-02-01T01:58:23.8965897+00:00:#5: Chrome - 
+2024-02-01T01:58:23.8965897+00:00:#9: Firefox - 
+2024-02-01T01:58:23.8965897+00:00:#2: SampleTestAutomationFramework - 
+2024-02-01T01:58:23.8965897+00:00:#6: SampleTestAutomationFramework - 
+2024-02-01T01:58:23.8965897+00:00:#10: SampleTestAutomationFramework - 
+2024-02-01T01:58:23.8965897+00:00:#7: CartTest - 
+2024-02-01T01:58:23.9273597+00:00:#8: Validate Cart functionality - Target:Chrome/TestAssembly:SampleTestAutomationFramework/Feature:CartTest/Scenario:Validate+Cart+functionality
+2024-02-01T01:58:23.9273597+00:00:End: Test Suite Dump
+2024-02-01T01:58:23.9583627+00:00:Thread#0:Scheduler: get next test for thread 0
+2024-02-01T01:58:23.9608810+00:00:Thread#:Scheduler: testitem #8 from normal test queue 
+2024-02-01T01:58:23.9608810+00:00:Thread#0:Scheduler: considering testitem #8 for thread 0
+2024-02-01T01:58:23.9667638+00:00:Thread#0:TestItem#8:testItemMatchesCurrentTestThread:UnSpecific
+2024-02-01T01:58:23.9667638+00:00:Thread#0:TestItem#8:runsOnOneOtherThreadSpecific:False
+2024-02-01T01:58:23.9667638+00:00:Thread#0:TestItem#8:runsOnOneOtherThreadUnspecific:True
+2024-02-01T01:58:23.9667638+00:00:Thread#0:Scheduler: using testitem #8 for thread 0
+2024-02-01T01:58:23.9685050+00:00:Thread#0:Scheduler: Test #8 is scheduled for thread
+2024-02-01T01:58:23.9694975+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2024-02-01T01:58:23.9694975+00:00:Thread#1:Scheduler: get next test for thread 1
+2024-02-01T01:58:23.9694975+00:00:Thread#:Scheduler: at the end of normal test queue
+2024-02-01T01:58:23.9694975+00:00:Thread#1:Scheduler: enumerator for thread is at end
+2024-02-01T01:58:23.9694975+00:00:Thread#1:Scheduler: No more tests for thread
+2024-02-01T01:58:23.9694975+00:00:Thread#2:Scheduler: get next test for thread 2
+2024-02-01T01:58:23.9694975+00:00:Thread#:Scheduler: at the end of normal test queue
+2024-02-01T01:58:23.9694975+00:00:Thread#2:Scheduler: enumerator for thread is at end
+2024-02-01T01:58:23.9694975+00:00:Thread#2:Scheduler: No more tests for thread
+2024-02-01T01:58:23.9694975+00:00:Thread#4:Scheduler: get next test for thread 4
+2024-02-01T01:58:23.9694975+00:00:Thread#:Scheduler: at the end of normal test queue
+2024-02-01T01:58:23.9694975+00:00:Thread#4:Scheduler: enumerator for thread is at end
+2024-02-01T01:58:23.9694975+00:00:Thread#4:Scheduler: No more tests for thread
+2024-02-01T01:58:23.9694975+00:00:Thread#7:Scheduler: get next test for thread 7
+2024-02-01T01:58:23.9694975+00:00:Thread#:Scheduler: at the end of normal test queue
+2024-02-01T01:58:23.9694975+00:00:Thread#7:Scheduler: enumerator for thread is at end
+2024-02-01T01:58:23.9694975+00:00:Thread#7:Scheduler: No more tests for thread
+2024-02-01T01:58:23.9705140+00:00:Thread#6:Scheduler: get next test for thread 6
+2024-02-01T01:58:23.9715143+00:00:Thread#:Scheduler: at the end of normal test queue
+2024-02-01T01:58:23.9722261+00:00:Thread#6:Scheduler: enumerator for thread is at end
+2024-02-01T01:58:23.9722261+00:00:Thread#6:Scheduler: No more tests for thread
+2024-02-01T01:58:23.9722261+00:00:Thread#3:Scheduler: get next test for thread 3
+2024-02-01T01:58:23.9722261+00:00:Thread#:Scheduler: at the end of normal test queue
+2024-02-01T01:58:23.9722261+00:00:Thread#3:Scheduler: enumerator for thread is at end
+2024-02-01T01:58:23.9722261+00:00:Thread#3:Scheduler: No more tests for thread
+2024-02-01T01:58:23.9727225+00:00:Thread#9:Scheduler: get next test for thread 9
+2024-02-01T01:58:23.9727225+00:00:Thread#:Scheduler: at the end of normal test queue
+2024-02-01T01:58:23.9727225+00:00:Thread#9:Scheduler: enumerator for thread is at end
+2024-02-01T01:58:23.9727225+00:00:Thread#9:Scheduler: No more tests for thread
+2024-02-01T01:58:23.9727225+00:00:Thread #0: creating new test thread executor for SampleTestAutomationFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Chrome)
+2024-02-01T01:58:23.9727225+00:00:Thread#5:Scheduler: get next test for thread 5
+2024-02-01T01:58:23.9727225+00:00:Thread#:Scheduler: at the end of normal test queue
+2024-02-01T01:58:23.9727225+00:00:Thread#5:Scheduler: enumerator for thread is at end
+2024-02-01T01:58:23.9727225+00:00:Thread#5:Scheduler: No more tests for thread
+2024-02-01T01:58:23.9727225+00:00:Thread#8:Scheduler: get next test for thread 8
+2024-02-01T01:58:23.9727225+00:00:Thread#:Scheduler: at the end of normal test queue
+2024-02-01T01:58:23.9727225+00:00:Thread#8:Scheduler: enumerator for thread is at end
+2024-02-01T01:58:23.9727225+00:00:Thread#8:Scheduler: No more tests for thread
+2024-02-01T01:58:24.2741883+00:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2024-02-01T01:58:24.2812185+00:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2024-02-01T01:58:24.2832184+00:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2024-02-01T01:58:30.2005489+00:00:Thread#0:T:-> Loading plugin C:\Defra\Test Automation\TestFramework\Sample\SampleTestAutomationFramework\bin\Debug\net461\LivingDoc.SpecFlowPlugin.dll
+2024-02-01T01:58:32.2128336+00:00:Thread#0:T:-> Loading plugin C:\Defra\Test Automation\TestFramework\Sample\SampleTestAutomationFramework\bin\Debug\net461\SpecRun.Runtime.SpecFlowPlugin.dll
+2024-02-01T01:58:32.3291001+00:00:Thread#0:T:-> Loading plugin C:\Defra\Test Automation\TestFramework\Sample\SampleTestAutomationFramework\bin\Debug\net461\SampleTestAutomationFramework.dll
+2024-02-01T01:58:32.3291001+00:00:Thread#0:T:-> Missing [assembly:RuntimePlugin] attribute in SampleTestAutomationFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null. Please check https://go.specflow.org/doc-plugins for details.
+2024-02-01T01:58:32.3410942+00:00:Thread#0:T:-> Using default config
+2024-02-01T01:58:33.9339948+00:00:Thread#0: Test #8/0 is started on thread #0
+2024-02-01T01:58:48.3365370+00:00:Thread#0:B:Given User open the url "https://cms.demo.katalon.com/"
+2024-02-01T01:58:50.4631512+00:00:Thread#0:T:done: HomeSteps.GivenUserOpenTheUrl("https://cms.demo....") (2.0s)
+2024-02-01T01:58:50.4656355+00:00:Thread#0:B:When I add four random items to my cart
+2024-02-01T01:58:56.9144969+00:00:Thread#0:T:done: HomeSteps.WhenIAddFourRandomItemsToMyCart() (6.4s)
+2024-02-01T01:58:56.9154982+00:00:Thread#0:B:And I view my Cart
+2024-02-01T01:59:01.3825239+00:00:Thread#0:T:done: HomeSteps.WhenIViewMyCart() (4.5s)
+2024-02-01T01:59:01.3835230+00:00:Thread#0:B:Then I find total four items listed in my cart
+2024-02-01T01:59:01.4016684+00:00:Thread#0:T:done: CartSteps.ThenIFindTotalFourItemsListedInMyCart() (0.0s)
+2024-02-01T01:59:01.4021666+00:00:Thread#0:B:When I search for lowest price item
+2024-02-01T01:59:13.7466078+00:00:Thread#0:T:Ignoring last row in the list of products table as it doesn't have price columnno such element: Unable to locate element: {"method":"xpath","selector":"./td[@class='product-price']/span"}
+2024-02-01T01:59:13.7466078+00:00:Thread#0:T:  (Session info: chrome=121.0.6167.86); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+2024-02-01T01:59:13.7466078+00:00:Thread#0:T:done: CartSteps.WhenISearchForLowestPriceItem() (12.4s)
+2024-02-01T01:59:13.7466078+00:00:Thread#0:B:And I am able to remove the lowest price item from my cart
+2024-02-01T01:59:17.8652755+00:00:Thread#0:T:done: CartSteps.WhenIamAbleToRemoveTheLowestPriceItemFromMyCart() (4.1s)
+2024-02-01T01:59:17.8652755+00:00:Thread#0:B:Then I am able to verify three items in my cart
+2024-02-01T01:59:19.8957254+00:00:Thread#0:T:done: CartSteps.ThenIamAbleToVerifyThreeItemsInMyCart() (2.0s)
+2024-02-01T01:59:19.9107373+00:00:Thread#0:Scheduler: get next test for thread 0
+2024-02-01T01:59:19.9107931+00:00:Thread#:Scheduler: at the end of normal test queue
+2024-02-01T01:59:19.9107931+00:00:Thread#0:Scheduler: enumerator for thread is at end
+2024-02-01T01:59:19.9107931+00:00:Thread#0:Scheduler: No more tests for thread
+2024-02-01T01:59:23.7884185+00:00:Thread#0: Test #8/0 is finished on thread #0 as Succeeded within 49.8534227 seconds
+2024-02-01T01:59:23.8271483+00:00:Thread#0:T:-> LivingDocPlugin: Output generated in: C:\Defra\Test Automation\TestFramework\Sample\SampleTestAutomationFramework\bin\Debug\net461\TestExecution.json
+2024-02-01T01:59:23.9291075+00:00:Trying to cancel thread
+2024-02-01T01:59:23.9291075+00:00:Thread cancelled
+2024-02-01T01:59:23.9291075+00:00:Trying to cancel thread
+2024-02-01T01:59:23.9291075+00:00:Thread cancelled
+2024-02-01T01:59:23.9291075+00:00:Trying to cancel thread
+2024-02-01T01:59:23.9291075+00:00:Thread cancelled
+2024-02-01T01:59:23.9291075+00:00:Trying to cancel thread
+2024-02-01T01:59:23.9291075+00:00:Thread cancelled
+2024-02-01T01:59:23.9291075+00:00:Trying to cancel thread
+2024-02-01T01:59:23.9291075+00:00:Thread cancelled
+2024-02-01T01:59:23.9291075+00:00:Trying to cancel thread
+2024-02-01T01:59:23.9291075+00:00:Thread cancelled
+2024-02-01T01:59:23.9291075+00:00:Trying to cancel thread
+2024-02-01T01:59:23.9291075+00:00:Thread cancelled
+2024-02-01T01:59:23.9291075+00:00:Trying to cancel thread
+2024-02-01T01:59:23.9291075+00:00:Thread cancelled
+2024-02-01T01:59:23.9291075+00:00:Trying to cancel thread
+2024-02-01T01:59:23.9291075+00:00:Thread cancelled
+2024-02-01T01:59:23.9291075+00:00:Trying to cancel thread
+2024-02-01T01:59:23.9291075+00:00:Thread cancelled
+2024-02-01T01:59:23.9384551+00:00:Thread#-1:Scheduler: get next test for thread -1
+2024-02-01T01:59:23.9384551+00:00:Thread#:Scheduler: at the end of normal test queue
+2024-02-01T01:59:23.9384551+00:00:Thread#-1:Scheduler: enumerator for thread is at end
+2024-02-01T01:59:23.9404794+00:00;Thread#13;Info;test run finished
+2024-02-01T01:59:23.9404794+00:00;Thread#13;Info;publishing test results
+2024-02-01T01:59:24.1109670+00:00;Thread#13;Info;test results published
+2024-02-01T01:59:24.1109670+00:00;Thread#13;Info;generating reports
+2024-02-01T01:59:24.2184947+00:00;Thread#13;Info;Starting external report generation process
+2024-02-01T01:59:28.4544317+00:00;Thread#13;Info;Successfully generated reports.
+2024-02-01T01:59:28.4563525+00:00;Thread#13;Info;Successfully generated reports
+2024-02-01T01:59:28.4713926+00:00:Total: 1
+2024-02-01T01:59:28.4743941+00:00:Succeeded: 1
+2024-02-01T01:59:28.4750334+00:00:Ignored: 0
+2024-02-01T01:59:28.4750334+00:00:Pending: 0
+2024-02-01T01:59:28.4750334+00:00:Skipped: 0
+2024-02-01T01:59:28.4762833+00:00:Failed: 0
+2024-02-01T01:59:28.4926319+00:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2024-02-01T01:59:28.4931227+00:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Defra\Test Automation\TestFramework\Sample\SampleTestAutomationFramework\TestResults\SampleTestAutomationFramework-01022024 015925.html'
+========== End of log file ==========
